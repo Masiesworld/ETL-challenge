@@ -1,5 +1,6 @@
 # ETL-challenge
 ## Data Cleanup &amp; Analysis 
+*Full Analysis Process at https://github.com/Masiesworld/ETL-challenge/blob/main/ETL_Project_Report.pdf*
 Once you have identified your datasets, perform ETL on the data. 
 
 Make sure to plan and document the following:  
