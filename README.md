@@ -1,7 +1,8 @@
 # ETL-challenge
 ## Data Cleanup &amp; Analysis 
 *Full Analysis Process at https://github.com/Masiesworld/ETL-challenge/blob/main/ETL_Project_Report.pdf*
-*We cleared the outcomes inside jupyter notebook because it's too large to upload to github. *
+
+*We cleared the outcomes inside jupyter notebook because it's too large to upload to github.*
 
 Once you have identified your datasets, perform ETL on the data. 
 
